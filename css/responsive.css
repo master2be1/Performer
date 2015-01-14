@@ -1,0 +1,182 @@
+@media only screen and (max-width: 1000px) {
+	.wrap {
+		width: 720px!important;
+	}
+	.playoverlay {
+		height: 63%!important;
+	}
+	.homevideo img {
+		width: 100%!important;
+	}
+	#events {
+		width: auto!important;
+	}
+	.col3 {
+		width: 220px!important;
+	}
+	#events {
+		width: auto!important;
+	}
+	.col2 {
+		width: 48%!important;
+	}
+	ul.music-item li, ul.music-item li:nth-child(4n+0) {
+		margin: 0 2% 2% 0!important;
+	}
+	ul.music-item li:nth-child(3n+0) {
+		margin: 0!important;
+	}
+	.pagetitle .right {
+		float: none!important;
+		margin: 10px 0 0 0px!important;
+	}
+	.pagetitle .left {
+		float: none!important;
+	}
+	.pagetitle ul.right {
+		margin: 20px 0 0 -10px!important;
+	}
+}
+@media only screen and (max-width: 760px) {
+	.wrap, .featvideobox {
+		width: 500px!important;
+	}
+
+	.featvideobox h1 {font-size:11px;}
+	.pagetitle h1 {
+		line-height: 1.2!important;
+	}
+	.featvideo {
+		width: 494px!important;
+		height: 300px!important;
+	}
+	.home-event, .homecover, .homepost, .footer-col-left, .footer-col-center, .footer-col-right, #content, #sidebar {
+		width: 100%!important;
+		float: none!important;
+	}
+	.homecover:nth-child(2) {
+		margin: 5% 0!important;
+	}
+	.home-event:nth-of-type(2), .homepost:nth-child(2) {
+		margin: 5% 0!important;
+		padding: 5% 0!important;
+		border-top: 1px solid #e3e3e3;
+		border-bottom: 1px solid #e3e3e3;
+	}
+	.homemeta {
+		margin: 0!important;
+	}
+	.homevideo, .homevideo:nth-of-type(4n), .homemembers, .homemembers:nth-of-type(4n) {
+		margin: 0 1% 0 0!important;
+		width: 49.5%!important;
+	}
+	.homevideo:nth-of-type(2n), .homemembers:nth-of-type(2n) {
+		margin: 0!important;
+	}
+	.homemembers h2 {
+		margin: 0 0 4%!important;
+	}
+	.playoverlay {
+		height: 71%!important;
+	}
+	#content {
+		padding: 0 0 40px 0!important;
+		border-bottom: 4px solid #e3e3e3;
+	}
+	.col3 {
+		width: 235px!important;
+	}
+	.col3:nth-of-type(3n) {
+		margin: 0 25px 3.125% 0!important;
+	}
+	.col3:nth-of-type(2n) {
+		margin: 0 0 3.125% 0!important;
+	}
+	ul.music-item li, ul.music-item li:nth-child(4n+0), ul.music-item li:nth-child(3n+0) {
+		margin: 0 8% 2% 0!important;
+	}
+	ul.music-item li:nth-child(2n+0) {
+		margin: 0!important;
+	}
+	.leftinfo, .rightinfo {
+		float: none!important;
+		width: 100%!important;
+	}
+	.leftinfo img {
+		width: 100%!important;
+		height: auto!important;
+	}
+	.leftinfo img {
+		margin: 0 0 4% 0!important;
+	} 
+	.rightinfo {
+		margin: 4% 0 0 0!important;
+	}
+	#sponsors li {
+		float: none!important;
+		width: 100%!important;
+		text-align: center;
+		margin: 0 0 5% 0!important;
+	}
+}
+@media only screen and (max-width: 540px) {
+	.wrap, .featvideobox {
+		width: 280px!important;
+	}
+	.featvideo , .featvideo iframe {
+		width: 274px!important;
+		height: 250px!important;
+	}
+	.homephotobig, .homephotoright, .homevideo, .homemembers, .homevideo, .homevideo:nth-of-type(4n), .homemembers, .homemembers:nth-of-type(4n), .blogpostimg {
+		float: none!important;
+		width: 100%!important;
+	}
+	.playoverlay {
+		height: 81%!important;
+	}
+	.homemembers img {
+		width: 100%!important;
+	}
+	.atxcred {
+		clear: none!important;
+	}
+	.right, .left {
+		float: none!important;
+	}
+	.footer-nav ul {
+		margin: 2% 0 0!important;
+	}
+	.footer-nav li {
+		margin: 0 4% 0 0!important;
+	}
+	.col2, .col2-alt, .col3 {
+		width: 100%!important;
+		float: none!important;
+		margin: 0 0 4% 0!important
+	}
+	.col2 img, .col2-alt img, .col3 img {
+		width: 100%!important;
+	}
+	.blogpostinfo {
+		width: 100%!important;
+		margin: 4% 0!important;
+	}
+	.blogpostinfo h1 {
+		text-align: center;
+	}
+	ul.music-item li, ul.music-item li:nth-child(4n+0), ul.music-item li:nth-child(3n+0), ul.music-item li:nth-child(2n+0) {
+		margin: 0 0 4% 0!important;
+		float: none!important;
+		width: 100%!important;
+		height: auto!important;
+	}
+	ul.music-item li a img {
+		width: 100%!important;
+	}
+	.load-portfolio {
+		margin: 20px -10px 0 -10px!important;
+	}
+	.pagetitle ul.right {
+		margin: 20px 0 0 -10px!important;
+	}
+}
